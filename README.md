@@ -1,5 +1,5 @@
 # Amplifire-Light-Detector
-Amplifire Light Detector Using By Arduino
+Amplifire Light Detector By Arduino
 -----------------------------------------
 
 Can detect the ligt presure by using the photocell sensor(Torch_LDR)
