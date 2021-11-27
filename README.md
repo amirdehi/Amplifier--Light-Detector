@@ -1,9 +1,9 @@
-# Amplifire-Light-Detector
-Amplifire Light Detector By Arduino
+# Amplifier -Light-Detector
+Amplifier Light Detector By Arduino
 -----------------------------------------
 
 Can detect the ligt presure by using the photocell sensor(Torch_LDR)
-and then turn the LEDs on, like an amplifire, goes up and down...
+and then turn the LEDs on, like an amplifier, goes up and down...
 Simulated in Proteus.
 
 +Arduino UNO
